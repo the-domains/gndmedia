@@ -1,7 +1,7 @@
 name: gndmedia
 favicon: null
-layout_spectrum: 0.99842
-typography_spectrum: 1
+layout_spectrum: 0
+typography_spectrum: 0.25052
 title: gndmedia
 cta:
   domain: null
