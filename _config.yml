@@ -1,7 +1,7 @@
 name: gndmedia
 favicon: null
-layout_spectrum: 0.50053
-typography_spectrum: 0.00158
+layout_spectrum: 0.99842
+typography_spectrum: 1
 title: gndmedia
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#c2da2f'
-    - '#63b5e6'
-    - '#1276bc'
-    - '#fd261f'
-    - '#1e0200'
-  brandStrength: 0.03922762884758413
-  lightness: 0.5
-  saturation: 0.5
+    - '#aaaaaa'
+    - '#000000'
+    - '#ffffff'
+    - '#aa5555'
+    - '#ff0000'
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 0.6875
   rhythmicContrast: 0.5381463742814958
 purpose: []
