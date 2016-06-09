@@ -1,21 +1,23 @@
 ---
-dateModified: '2016-06-07T19:29:52.277Z'
+dateModified: '2016-06-09T11:37:58.846Z'
 description: Mr. Killa at White in the Moonlight / The Aftermath
 isBasedOnUrl: 'https://youtu.be/ld8UQyP0j7E'
 keywords: []
 publisher:
-  domain: youtu.be
-  favicon: 'https://www.youtube.com/favicon.ico'
   name: YouTube
+  domain: youtu.be
   url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 title: KG9 Demo Reel New Season p2
 author: []
-datePublished: '2016-06-07T22:56:33.341Z'
-starred: false
+datePublished: '2016-06-09T11:40:29.591Z'
 sourcePath: _posts/2016-06-07-kg9-demo-reel-new-season-p2.md
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+authors: []
+starred: true
 _context: 'http://schema.org'
 _type: VideoObject
 
