@@ -1,5 +1,5 @@
 ---
-dateModified: '2016-06-07T19:30:07.707Z'
+dateModified: '2016-06-09T11:38:02.690Z'
 description: >-
   Machel Montano live in Grenada's biggest show for Carnival 2013 White in the
   Moonlight
@@ -17,18 +17,19 @@ keywords:
   - gndinc
   - soca
 publisher:
-  domain: youtu.be
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   name: YouTube
+  domain: youtu.be
   url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 title: KG9 Demo Reel New Season p1
 author: []
-datePublished: '2016-06-07T22:56:23.268Z'
-starred: false
+datePublished: '2016-06-09T11:40:41.385Z'
 sourcePath: _posts/2016-06-07-kg9-demo-reel-new-season-p1.md
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
+starred: true
 _context: 'http://schema.org'
 _type: VideoObject
 
