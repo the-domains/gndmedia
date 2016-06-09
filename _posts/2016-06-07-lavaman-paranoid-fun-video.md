@@ -1,5 +1,5 @@
 ---
-dateModified: '2016-06-07T19:29:34.383Z'
+dateModified: '2016-06-09T11:38:00.960Z'
 description: Uploaded by GNDMedia GNDInc on 2013-08-03.
 inLanguage: en
 isBasedOnUrl: 'https://youtu.be/cDbDPdC9mFY'
@@ -15,18 +15,19 @@ keywords:
   - killa
   - grenada
 publisher:
-  domain: youtu.be
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   name: YouTube
+  domain: youtu.be
   url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 title: LavaMan Paranoid fun video
 author: []
-datePublished: '2016-06-07T22:56:40.481Z'
-starred: false
+datePublished: '2016-06-09T11:40:53.457Z'
 sourcePath: _posts/2016-06-07-lavaman-paranoid-fun-video.md
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
+starred: true
 _context: 'http://schema.org'
 _type: VideoObject
 
